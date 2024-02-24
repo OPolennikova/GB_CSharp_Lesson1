@@ -1,0 +1,14 @@
+C:\Users\olga.polennikova\Documents\02. EDU\4. Программирование\Java\GB\GIT\01_CSharp\Lesson1\Task2\obj\Debug\net7.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olga.polennikova\Documents\02. EDU\4. Программирование\Java\GB\GIT\01_CSharp\Lesson1\Task2\obj\Debug\net7.0\Task2.AssemblyInfoInputs.cache
+C:\Users\olga.polennikova\Documents\02. EDU\4. Программирование\Java\GB\GIT\01_CSharp\Lesson1\Task2\obj\Debug\net7.0\Task2.AssemblyInfo.cs
+C:\Users\olga.polennikova\Documents\02. EDU\4. Программирование\Java\GB\GIT\01_CSharp\Lesson1\Task2\obj\Debug\net7.0\Task2.csproj.CoreCompileInputs.cache
+C:\Users\olga.polennikova\Documents\02. EDU\4. Программирование\Java\GB\GIT\01_CSharp\Lesson1\Task2\bin\Debug\net7.0\Task2.exe
+C:\Users\olga.polennikova\Documents\02. EDU\4. Программирование\Java\GB\GIT\01_CSharp\Lesson1\Task2\bin\Debug\net7.0\Task2.deps.json
+C:\Users\olga.polennikova\Documents\02. EDU\4. Программирование\Java\GB\GIT\01_CSharp\Lesson1\Task2\bin\Debug\net7.0\Task2.runtimeconfig.json
+C:\Users\olga.polennikova\Documents\02. EDU\4. Программирование\Java\GB\GIT\01_CSharp\Lesson1\Task2\bin\Debug\net7.0\Task2.dll
+C:\Users\olga.polennikova\Documents\02. EDU\4. Программирование\Java\GB\GIT\01_CSharp\Lesson1\Task2\bin\Debug\net7.0\Task2.pdb
+C:\Users\olga.polennikova\Documents\02. EDU\4. Программирование\Java\GB\GIT\01_CSharp\Lesson1\Task2\obj\Debug\net7.0\Task2.dll
+C:\Users\olga.polennikova\Documents\02. EDU\4. Программирование\Java\GB\GIT\01_CSharp\Lesson1\Task2\obj\Debug\net7.0\refint\Task2.dll
+C:\Users\olga.polennikova\Documents\02. EDU\4. Программирование\Java\GB\GIT\01_CSharp\Lesson1\Task2\obj\Debug\net7.0\Task2.pdb
+C:\Users\olga.polennikova\Documents\02. EDU\4. Программирование\Java\GB\GIT\01_CSharp\Lesson1\Task2\obj\Debug\net7.0\Task2.genruntimeconfig.cache
+C:\Users\olga.polennikova\Documents\02. EDU\4. Программирование\Java\GB\GIT\01_CSharp\Lesson1\Task2\obj\Debug\net7.0\ref\Task2.dll
